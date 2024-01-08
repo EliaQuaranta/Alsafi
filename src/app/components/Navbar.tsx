@@ -1,3 +1,7 @@
+import React from "react";
+
+function Navbar() {
+  return(
 <div className="navbar bg-[#4366C9] ">
   <div className="flex-1">
     <a className="btn btn-ghost "><img src="\favicon-alsafi.png" className='w-12' alt="" /></a>
@@ -20,3 +24,5 @@
   </div>
   
 </div>
+)
+}
