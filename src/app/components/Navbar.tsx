@@ -8,7 +8,7 @@ function Navbar() {
     <a className="btn btn-ghost rounded-full pl-0.5 pr-0.5 pt-0 pb-0"><img src="\favicon-alsafi.png" className='w-12' alt="" /></a>
   </div>
   <div className="flex-none">
-    <ul className="menu menu-horizontal px-1 font-link text-lg">
+    <ul className="menu menu-horizontal px-1 font-link text-3xl pr-6">
       <li><a>Lavora con noi</a></li>
       <li>
         <details>
