@@ -5,7 +5,7 @@ function Navbar() {
 
 <div className="navbar bg-[#4366C9] ">
   <div className="flex-1">
-    <a className="btn btn-ghost "><img src="\favicon-alsafi.png" className='w-12' alt="" /></a>
+    <a className="btn btn-ghost rounded-full pl-0.5 pr-0.5 pt-0 pb-0"><img src="\favicon-alsafi.png" className='w-12' alt="" /></a>
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1 font-link text-lg">
