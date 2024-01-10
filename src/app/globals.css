@@ -4,13 +4,43 @@
 
 
 
+.navbar{
 
+  position: fixed;
+  z-index: 1;
+  
+}
 
-body {
-  background-color:#4366C9;
+body{
+  background: rgb(67,102,201);
+background: linear-gradient(180deg, rgba(67,102,201,1) 0%, rgba(41,82,199,1) 100%);
+  
 }
 
 .font-link{
 font-family: 'DM Serif Display', serif;
-color: #FFB178;
+color: #ffffff;
+}
+
+
+.font-link1{
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+
+.badge-secondary{
+
+    background-color: #FFB178; 
+    border:solid black 1.5px;
+    color: black;
+}
+
+.text {
+  text-decoration: none;
+}
+
+.text:hover {
+  text-decoration: underline;
 }
